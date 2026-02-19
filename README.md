@@ -1,6 +1,4 @@
 
-Gemini said
-Budur, təqdim etdiyiniz Iris təsnifatı layihəsi üçün ingilis dilində hazırlanmış README.md faylı:
 
 Iris Species Classification & Clustering
 This project focuses on the classification and clustering of the classic Iris dataset. It utilizes various machine learning techniques including K-Means, Hierarchical Clustering, and Principal Component Analysis (PCA) to group and identify different iris species based on their morphological features.
